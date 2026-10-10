@@ -1,16 +1,21 @@
-## Hi there 👋
+## Xuxu beleza?
+<img width="480" height="476" alt="Cat Meme GIF" src="https://github.com/user-attachments/assets/00ca8efd-0951-45e5-b74c-164481398368" />
+Sou estudante de **Ciência e Tecnologia na Universidade Federal de São Paulo (UNIFESP)**, com interesse em programação, desenvolvimento de projetos e integração entre hardware e software.
+Já atuei como **Capitã de Projetos da Forgers**, equipe universitária de robótica, experiência na qual participei do contexto de organização e desenvolvimento de projetos tecnológicos.
 
-<!--
-**Hashibra/hashibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Áreas de interesse
+* Robótica
+* Programação e desenvolvimento de software
+* Eletrônica e sistemas embarcados
+* Desenvolvimento e prototipagem de projetos
+* Resolução de problemas e aprendizado de novas tecnologias
 
-Here are some ideas to get you started:
+## Tecnologias e linguagens
+* **Python**
+* **C/C++**
+* **Arduino e sistemas embarcados**
+* **Git e GitHub**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+* **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/luana-cabral-hashimoto/)
+* **Email Institucional: [Meu email](cabral.hashimoto@unifesp.br)
