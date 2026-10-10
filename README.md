@@ -5,18 +5,18 @@ Sou estudante de **Ciência e Tecnologia na Universidade Federal de São Paulo (
 Já atuei como **Capitã de Projetos da Forgers**, equipe universitária de robótica, experiência na qual participei do contexto de organização e desenvolvimento de robôs para competições.
 
 ## Áreas de interesse
-* Robótica
-* Programação e desenvolvimento de software
-* Eletrônica e sistemas embarcados
-* Desenvolvimento e prototipagem de projetos
-* Resolução de problemas e aprendizado de novas tecnologias
+* Robótica;
+* Programação e desenvolvimento de software;
+* Eletrônica e sistemas embarcados;
+* Desenvolvimento e prototipagem de projetos;
+* Resolução de problemas e aprendizado de novas tecnologias.
 
 ## Tecnologias e linguagens
-* **Python**
-* **C/C++**
-* **Arduino e sistemas embarcados**
-* **Git e GitHub**
+* **Python**;
+* **C/C++**;
+* **Arduino e sistemas embarcados**;
+* **Git e GitHub**.
 
 ## Contato
 * **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/luana-cabral-hashimoto/)
-* **Email Institucional: [Meu email](cabral.hashimoto@unifesp.br)
+* **Email Institucional**: [Meu email](cabral.hashimoto@unifesp.br)
